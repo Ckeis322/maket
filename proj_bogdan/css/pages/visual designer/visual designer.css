@@ -57,3 +57,50 @@
     height: 360px;
     
 }
+
+
+
+.main-img{
+    width: 1280px;
+    height: 130.83px;
+    justify-content: space-between;
+    padding-top: 42px;
+    padding-right: 68px;
+    padding-bottom: 42px;
+    padding-right: 68px;
+    display: flex;
+    margin-left: 308px;
+}
+
+
+
+.design-variant{
+    width: 1280px;
+    height: 513px;
+    padding: 42px 24px;
+    gap: 42px;
+}
+
+
+
+.design-variant__container{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.design-variant__item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.design-variant__item img{
+   margin-bottom: 30px;
+  }
+
+
+
+
